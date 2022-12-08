@@ -1,6 +1,6 @@
 # B+ HAT ID EEPROM FORMAT SPECIFICATION
 
-**CURRENTLY THIS SPEC IS PRELIMINARY AND THEREFORE STILL LIKELEY TO CHANGE**
+**CURRENTLY THIS SPEC IS PRELIMINARY AND THEREFORE STILL LIKELY TO CHANGE**
 
 Note that there are [software tools](./eepromutils) for creation of EEPROM images and for flashing / dumping images from attached HATs.
 
